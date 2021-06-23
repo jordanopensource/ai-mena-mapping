@@ -51,10 +51,14 @@ This mapping includes:
 * **Funding:** entities who fund AI initiatives, directly or indirectly
 
 ## Contributing
+TBA
 
 ## License
 Distributed under the CCO license. See `LICENSE` for more information.
 
 ## Contact
 * Email: info (at) jordanopensource (dot) org
-* Twitter - [@jo_osa](https://twitter.com/jo_osa)
+* Twitter: [@jo_osa](https://twitter.com/jo_osa)
+
+## Acknowledgments
+TBA
