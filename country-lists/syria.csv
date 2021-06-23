@@ -1,0 +1,10 @@
+entity_name,category_code,category_description,url,description,date_added,source,notes
+Syrian Researchers,CIVC,Civil society,https://www.syr-res.com/,Berlin-based researchers network brings together Syrian expatriate academics.,2021-05-27,JOSA,
+University of Damascus,ACDM,Academic (education and research),http://damascusuniversity.edu.sy/ite/index.php?lang=1&set=3&id=415,Has a department of AI and Natural Language Processing research.,2021-05-27,JOSA,
+Arab International University,ACDM,Academic (education and research),https://www.aiu.edu.sy/ar/College31/Page168/%D8%A7%D9%84%D8%AA%D8%AE%D8%B1%D8%AC-%D9%88%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%D8%A7%D8%AA,Offers an engineering degree specialising in AI.,2021-05-27,JOSA,
+Higher Institute of Applied Science and Technology,ACDM,Academic (education and research),https://hiast.edu.sy/,Conducts research in the field and offers postgraduate degrees in Data Science.,2021-05-27,JOSA,
+Ministry of Education,GOVT,Government,N/A,Working on National Centre for AI.,2021-05-27,JOSA,
+Mujeeb,INDS,Industry,https://mujeeb.ai/,Building Arabic customer support chatbots.,2021-05-27,JOSA,
+Wasilni,INDS,Industry,https://wasilni.com/,Local ride-sharing application that utilises AI.,2021-05-27,JOSA,
+BeeOrder,INDS,Industry,http://www.beeorder.com/,Local food ordering application.,2021-05-27,JOSA,
+Votek,INDS,Industry,http://votek.me/,Educational toy utilising Arabic speech recognition.,2021-05-27,JOSA,
