@@ -22,7 +22,7 @@ At present however, a scarce amount of sources exist on what constitutes the AI 
 
 While this is not meant to be an exhaustive map, we do aim to capture essential data to encourage future work. We hope this snapshot will be a first step from which we can foster a stronger understanding of how AI is being leveraged in the region.
 
-You can find the full written report here: https://www.josa.ngo/publications/11/mapping-ai-in-the-mena-region
+<a href=https://www.josa.ngo/publications/11/mapping-ai-in-the-mena-region>You can find the full written report here.</a>
 
 ## Countries covered
 In this mapping, we cover the Arabic-speaking countries in the MENA region. According to the United Nations Office of the High Commissioner of Human Rights (UNOHCHR), the MENA region consists of 19 countries of which 17 are Arabic-speaking. We study the below 17 countries:
