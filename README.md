@@ -24,23 +24,23 @@ While this is not meant to be an exhaustive map, we do aim to capture essential 
 
 ## Countries covered
 In this mapping, we cover the Arabic-speaking countries in the MENA region. According to the United Nations Office of the High Commissioner of Human Rights (UNOHCHR), the MENA region consists of 19 countries of which 17 are Arabic-speaking. We study the below 17 countries:
-* Algeria
-* Bahrain
-* Egypt
-* Iraq
-* Jordan
-* Kuwait
-* Lebanon
-* Libya
-* Morocco
-* Oman
-* Palestine
-* Qatar
-* Saudi Arabia
-* Syria
-* Tunisia
-* UAE
-* Yemen
+* [Algeria](/country-lists/algeria.csv)
+* [Bahrain](/country-lists/bahrain.csv)
+* [Egypt](/country-lists/egypt.csv)
+* [Iraq](/country-lists/iraq.csv)
+* [Jordan](/country-lists/jordan.csv)
+* [Kuwait](/country-lists/kuwait.csv)
+* [Lebanon](/country-lists/lebanon.csv)
+* [Libya](/country-lists/libya.csv)
+* [Morocco](/country-lists/morocco.csv)
+* [Oman](/country-lists/oman.csv)
+* [Palestine](/country-lists/palestine.csv)
+* [Qatar](/country-lists/qatar.csv)
+* [Saudi Arabia](/country-lists/saudi-arabia.csv)
+* [Syria](/country-lists/syria.csv)
+* [Tunisia](/country-lists/tunisia.csv)
+* [UAE](/country-lists/uae.csv)
+* [Yemen](/country-lists/yemen.csv)
 
 ## Entity categories
 This mapping includes:
@@ -60,5 +60,5 @@ Distributed under the CCO license. See `LICENSE` for more information.
 * Email: info (at) jordanopensource (dot) org
 * Twitter: [@jo_osa](https://twitter.com/jo_osa)
 
-## Acknowledgments
+## Acknowledgements
 TBA
