@@ -1,8 +1,7 @@
 # Mapping AI in the MENA Region
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of contents</summary>
+<summary>Table of contents</summary>
   <ol>
     <li><a href="#about-the-project">About the project</a></li>
     <li><a href="#countries-covered">Countries covered</a></li>
@@ -12,7 +11,6 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-</details>
 
 
 ## About the project
