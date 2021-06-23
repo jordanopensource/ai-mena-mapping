@@ -49,3 +49,12 @@ This mapping includes:
 * **Civil society:** entities who question AI and AI policies
 * **Education and research:** entities who engage in AI research or capacity building
 * **Funding:** entities who fund AI initiatives, directly or indirectly
+
+## Contributing
+
+## License
+Distributed under the CCO license. See `LICENSE` for more information.
+
+## Contact
+* Email: info (at) jordanopensource (dot) org
+* Twitter - [@jo_osa](https://twitter.com/jo_osa)
