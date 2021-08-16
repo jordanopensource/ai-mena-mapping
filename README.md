@@ -61,4 +61,6 @@ Distributed under the CCO license. See `LICENSE` for more information.
 * Twitter: [@jo_osa](https://twitter.com/jo_osa)
 
 ## Acknowledgements
+* Data for Tunisian institutions have been developed thanks to the special contributions of Data Engineering and Semantics Research Unit, University of Sfax with the collaboration of the Technopark of Sfax and the Ministry of Higher Education and Scientific Research, Tunisia.
+
 TBA
